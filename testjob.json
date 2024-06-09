@@ -1,0 +1,6 @@
+{
+    "input_table":"election_results_txt",
+    "database":"testdb",
+    "landing_dir":"/home/data-transit/dataprom/landing_zone",
+    "input_file":"election_results_2024.csv"
+}
